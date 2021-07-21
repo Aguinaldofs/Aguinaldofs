@@ -5,6 +5,6 @@
          <h3 align="center">  I will make better codes because i like to receive stars ! :sparkles: </h3>
 <p>
 <img alt= "ag stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=aguinaldofs&theme=omni&show_icons=true&count_private=true" />
-<img align="right" height="270px" width="350" src="github.png" /> </a>
+<img align="right" height="270px" width="350" src="github-export.png" /> </a>
 </p>
 
