@@ -28,8 +28,8 @@
 ## My summary
 
 <p>
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aguinaldofs&show_icons=true&theme=nord&title_color=f85149&icon_color=79b8ff&bg_color=21262d">  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldofs&layout=compact&theme=nord&title_color=f85149&bg_color=21262d">
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aguinaldofs&show_icons=true&theme=nord&title_color=f85149&icon_color=79b8ff&bg_color=0d1117">ㅤㅤㅤ
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldofs&layout=compact&theme=nord&title_color=f85149&bg_color=0d1117">
 </p>
  
 </p>
