@@ -2,8 +2,8 @@
          alt="Waving hand animated gif"
          height="45"width="45" />, I'm <a href="https://github.com/Aguinaldofs"> Aguinaldo Feliciano de Souza</a></h1>  
          
-[![](https://img.shields.io/badge/LinkedIn-Aguinaldofs-red)](https://www.linkedin.com/in/aguinaldo-fs)
-[![](https://img.shields.io/badge/Email-aguinaldojunior@gec.inatel.br-blue)](mailto:rubens.cividati@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Aguinaldofs-8e1519)](https://www.linkedin.com/in/aguinaldo-fs)
+[![](https://img.shields.io/badge/Email-aguinaldojunior@gec.inatel.br-0c2d6b)](mailto:aguinaldojunior@gec.inatel.br)
 
 
 ```Python
