@@ -5,7 +5,14 @@
 [![](https://img.shields.io/badge/LinkedIn-Aguinaldofs-8e1519)](https://www.linkedin.com/in/aguinaldo-fs)
 [![](https://img.shields.io/badge/Email-aguinaldojunior@gec.inatel.br-0c2d6b)](mailto:aguinaldojunior@gec.inatel.br)
 
+<div align="right">
+         
 
+         
+</div>
+
+<div align="left">
+        
 ```Python
  class about_me:
    name: "AG"
@@ -15,6 +22,8 @@
    age: 24
    passion: "Art, games, codes and pizza"
 ```
+         
+</div>
 
 ## Favorite languages and tools
 
@@ -37,4 +46,10 @@
 ## Snake Commit Game
 ![Snake animation](https://github.com/aguinaldofs/aguinaldofs/blob/output/github-contribution-grid-snake.svg)
 
+## Now Playing
+<div align="left">
+         
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3132b3rcaipmqcar24tea7ky4stm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3132b3rcaipmqcar24tea7ky4stm&redirect=true)
+         
+</div>
 
