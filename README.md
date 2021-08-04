@@ -33,3 +33,8 @@
 </p>
  
 </p>
+
+## Snake Commit Game
+![Snake animation](https://github.com/aguinaldofs/aguinaldofs/blob/output/github-contribution-grid-snake.svg)
+
+
