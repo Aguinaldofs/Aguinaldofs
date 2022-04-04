@@ -13,9 +13,9 @@
  class about_me:
    name: "AG"
    nickname: "Aguinaldo Feliciano"
-   summary: "Computer Engineering student at Inatel, game developer and artist"
+   summary: "Computer engineer at Inatel, game developer and artist"
    age: 24
-   passion: "Art, games, codes and pizza"
+   passion: "Art, games, cats, codes and pizza"
 ```
          
 
