@@ -28,7 +28,7 @@
 ```Python
  class tech_info:
    languages: ["Python", "JavaScript", "Java", "C#"]
-   tools: ["Git", "VS Code", "Unity"]
+   tools: ["Git", "VS Code", "Unity", "Eclipse", "Intelijj","Postman","Insomnia"]
 ```
 
 ## My summary
