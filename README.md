@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Email-aguinaldojunior@gec.inatel.br-0c2d6b)](mailto:aguinaldojunior@gec.inatel.br)
 
 <p align="right">
- <img align="right" alt="GIF" src="escritorio.png" alt="ag music" width="300"  height="300" />
+ <img align="right" alt="GIF" src="escritorio.png" alt="ag music" width="250"  height="250" />
 </p>
 
 ```Python
